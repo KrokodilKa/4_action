@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/kubsu-portal/',
+  base: '/4_action/',
   build: {
     outDir: 'docs',
     emptyOutDir: true,
